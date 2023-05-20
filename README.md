@@ -1,7 +1,7 @@
 # SalesManagement
 A Software that helps with keeping track of your invoices and imports
 
-#Screens
+# Screens
 
 Initial screen
 ![image](https://github.com/dT0210/SalesManagement/assets/121219177/876fc34e-4ae8-4382-8733-65a403c0250a)
